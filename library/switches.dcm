@@ -223,6 +223,11 @@ D Single Pole Single Throw (SPST) switch with LED, generic
 K switch SPST LED OFF-ON
 $ENDCMP
 #
+$CMP SW_SPST_LED_RGB
+D Single Pole Single Throw (SPST) switch with RGB LED, generic
+K switch SPST LED OFF-ON
+$ENDCMP
+#
 $CMP SW_SPST_Lamp
 D Single Pole Single Throw (SPST) switch with signal lamp, generic
 K switch SPST LED OFF-ON lamp
